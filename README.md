@@ -1,8 +1,10 @@
 Repositório de dados sobre ocorrências de trânsito de 2014 com vítimas fatais na cidade de São Paulo. Os dados foram pedidos via Lei de Acesso à Informação.
 
-## Dados abertos
+## Baixar
 
-Download dos dados em formato abertos
+* [Repositório completo](https://github.com/codigourbano/ocorrencias-fatais-sp/archive/master.zip)
+
+Visite a [pasta dados](https://github.com/codigourbano/ocorrencias-fatais-sp/tree/master/dados) para baixar arquivos isoladamente.
 
 ## Dados originais em formato proprietário
 
