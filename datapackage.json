@@ -1,0 +1,26 @@
+{
+  "name": "ocorrencias-transito-sp",
+  "title": "Ocorrências de trânsito em São Paulo",
+  "description": "Dados da CET sobre colisões com vítimas na cidade de São Paulo.",
+  "version": "0.1.0",
+  "keywords": ["São Paulo", "trânsito", "violência"],
+  "licenses": [{
+    "url": "https://creativecommons.org/publicdomain/zero/1.0",
+    "name": "CC0",
+    "version": "1.0",
+    "id": "cc0"
+  }],
+  "sources": [{
+    "name": "Companhia de Engenharia de Tráfico (CET-SP)",
+    "web": "http://www.cetsp.com.br"
+  }],
+  "authors": [{
+    "name": "Vitor George",
+    "email": "vitor.george@gmail.com"
+  }],
+  "resources": [
+    {
+      ... see below ...
+    }
+  ]
+}
