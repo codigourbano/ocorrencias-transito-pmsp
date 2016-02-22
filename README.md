@@ -17,7 +17,7 @@
 Em fevereiro de 2016, a [Prefeitura de São Paulo][pmsp] disponibilizou dados brutos sobre **ocorrências de trânsito com vítimas na cidades de São Paulo em 2014**. A liberação ocorreu após [decisão](8aATA_CMAI_18_11_15.pdf) do Conselho Municipal de Acesso à Informação, que [deferiu o pedido de acesso à informação após duas negativas]() da [Companhia de Engenharia de Tráfego (CET)][cet]. Os dados foram liberados em formato proprietário, mas, graças às ferramentas de código aberto [MDB Tools][mdbtools] e [ogr2ogr][ogr2ogr], estão disponíveis neste repositório em [formato aberto](http://dataprotocols.org/).
 
 
-Para baixar todos os arquivos deste repositório, visite este [link]([download](https://github.com/codigourbano/ocorrencias-transito-sp/archive/master.zip).
+Para baixar todos os arquivos deste repositório, visite este [link](https://github.com/codigourbano/ocorrencias-transito-sp/archive/master.zip).
 
 
 ## Arquivos disponíveis
