@@ -75,7 +75,7 @@ VITIMAS | Totais de Vítimas Envolvidas. <br> São armazenados os totais, com 
 DISTRITO | Número do Distrito.
 PRINC_A | Sempre será preenchido. <br> Conterá o código do logradouro que é o pai do acidente. <br> Caso o acidente não pertença a um corredor, será preenchido com o cadloga. <br> Caso o acidente ocorra num cruzamento, esta será a primeira componente do pai do cruzamento.
 PRINC_B| Segundo código do logradouro que é o pai do acidente. <br> Será preenchida SOMENTE se o acidente ocorreu num cruzamento. Nesse caso, será a segunda componente do pai do cruzamento.<br> Se não for cruzamento complexo será preenchido com o cadlogb.
-TIPO_ACIDE| CO - Colisão <br> CF - Colisão frontal <br> CT - Colisão traseira <br> CL - Colisão lateral <br> CV - Colisão Transversal <br> CP - Capotamento <br> TB - Tombamento <br> AT - Atropelamento <br> AA - Atropelamento animal CH - Choque <br> QM - Queda moto/bicicleta QV - Queda veículo <br> QD - Queda ocupante dentro QF - Queda ocupante fora OU - Outros <br> SI - Sem informação
+TIPO_ACIDE| CO - Colisão <br> CF - Colisão frontal <br> CT - Colisão traseira <br> CL - Colisão lateral <br> CV - Colisão Transversal <br> CP - Capotamento <br> TB - Tombamento <br> AT - Atropelamento <br> AA - Atropelamento animal <br> CH - Choque <br> QM - Queda moto/bicicleta <br>  QV - Queda veículo <br> QD - Queda ocupante dentro <br> QF - Queda ocupante fora <br> OU - Outros <br> SI - Sem informação
 CADLOGA | Sempre será preenchido. Contém o código do logradouro envolvido no acidente
 CADLOGB | Será preenchido SOMENTE se o local que ocorreu o acidente for um cruzamento. <br> Contém o código do segundo logradouro que compõe o cruzamento.
 
@@ -84,7 +84,7 @@ CADLOGB | Será preenchido SOMENTE se o local que ocorreu o acidente for um cru
 Campo | Descrição
 ------------ | -------------
 ID_VEICULO | Identifica o veículo num determinado acidente. <br> É gerado pelo sistema e incrementado automaticamente.
-TIPO_VEICU | A - AU - Auto <br> M-MO-Moto <br> O-ON-Ônibus <br> C - CA - Caminhão <br> B - BI - Bicicleta <br> X-MT-MotoTaxi <br> F - OF - Ônibus Fretado/Intermunicipal <br> R - OU - Ônibus Urbano <br> N - MC - Micro-ônibus <br> V - VA - Van <br> U-VC-Vuc <br> H - CM - Caminhonete/Caminhoneta T-CR-Carreta <br> J-JI-Jipe S-OT-Outros <br> I - SI - Sem Informação <br> Y-CO-Carroça
+TIPO_VEICU | A - AU - Auto <br> M-MO-Moto <br> O-ON-Ônibus <br> C - CA - Caminhão <br> B - BI - Bicicleta <br> X-MT-MotoTaxi <br> F - OF - Ônibus Fretado/Intermunicipal <br> R - OU - Ônibus Urbano <br> N - MC - Micro-ônibus <br> V - VA - Van <br> U-VC-Vuc <br> H - CM - Caminhonete/Caminhoneta <br>  T-CR-Carreta <br> J-JI-Jipe <br>  S-OT-Outros <br> I - SI - Sem Informação <br> Y-CO-Carroça
 SEXO_COND | Sexo do Condutor: <br> M - Masculino <br> F - Feminino <br> X - Sem Informação
 IDADE_COND | Idade do condutor: <br> 01 a 99 - idade em anos <br> SI - Sem Informação
 CATEGORIA_ | Categoria da habilitação do condutor.
@@ -102,7 +102,7 @@ SEXO| Sexo da Vitima: <br> M - Masculino <br> F - Feminino <br> X - Sem Informac
 IDADE | Idade da Vítima. <br> 01 a 99 - idade em anos <br> SI - Sem Informação
 TIPO_VITIM | CD - Condutor <br> PS - Passageiro <br> PD - Pedestre <br> OU - Outros <br> SI - Sem Informação
 CLASSIFICA_ | F - Ferida <br> M - Morta
-TIPO_VEICU | A - AU - Auto <br> M-MO-Moto <br> O-ON-Ônibus <br> C - CA - Caminhão <br> B - BI - Bicicleta <br> X-MT-MotoTáxi <br> F - OF - Ônibus Fretado/Intermunicipal <br> R - OU - Ônibus Urbano <br> N - MC - Micro-ônibus <br> V - VA - Van <br> U-VC-Vuc <br> H - CM - Caminhonete/Caminhoneta <br> T-CR-Carreta <br> J-JI-Jipe S-OT-Outros <br> I - SI - Sem Informação <br> Y-CO-Carroça <br> EST_ALCOOL
+TIPO_VEICU | A - AU - Auto <br> M-MO-Moto <br> O-ON-Ônibus <br> C - CA - Caminhão <br> B - BI - Bicicleta <br> X-MT-MotoTáxi <br> F - OF - Ônibus Fretado/Intermunicipal <br> R - OU - Ônibus Urbano <br> N - MC - Micro-ônibus <br> V - VA - Van <br> U-VC-Vuc <br> H - CM - Caminhonete/Caminhoneta <br> T-CR-Carreta <br> J-JI-Jipe <br>  S-OT-Outros <br> I - SI - Sem Informação <br> Y-CO-Carroça <br> EST_ALCOOL
 Estado de Alcoolização da Vítima: | AA - Alcoolizado <br> AS - Suspeita de Álcool <br> BR - Branco
 ESCOLARIDADE | Escolaridade da Vítima: <br> 1 - Analfabeto <br> 2 - 1o Grau Incompleto <br> 3 - 1o Grau Completo<br> 4 - 2o Grau Incompleto <br> 5 - 2o Grau Completo <br> 6 - Superior incompleto <br> 7 - Superior Completo <br> 8 - Sem Informação
 ID_VEICULO | Identifica a qual veículo estava a vítima.
