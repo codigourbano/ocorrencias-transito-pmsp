@@ -24,37 +24,37 @@ Para baixar todos os arquivos deste repositório, visite este [link](https://git
 
 ### ocorrencias-2014.csv
 
-[download](https://github.com/codigourbano/ocorrencias-transito-sp/raw/master/dados/ocorrencias-2014.csv) | [formato shp](https://github.com/codigourbano/ocorrencias-transito-sp/raw/master/dados/ocorrencias-2014.shp.zip) | [dicionário](#acidentes)
+[baixar](https://github.com/codigourbano/ocorrencias-transito-sp/raw/master/dados/ocorrencias-2014.csv) |  [.shp](https://github.com/codigourbano/ocorrencias-transito-sp/raw/master/dados/ocorrencias-2014.shp.zip) | [.kml](https://github.com/codigourbano/ocorrencias-transito-sp/raw/master/dados/ocorrencias-2014.kml.zip) | [dicionário](#acidentes)
 
 Este arquivo contém as todas ocorrências com vítimas em 2014, com coordenadas geográficas para a maioria das ocorrências. Ele foi obtido a partir dos arquivos originais `Geocodificaá∆o_2014_crg_Tadeu-11_12_15_ACDIS.*`, que foram convertidos do formato [Mapinfo][mapinfo] para [Shapefile][shapefile] com a ferramenta [ogr2ogr][ogr2ogr]. Com o QGIS, foram gerados a versão em CSV, que contém longitude e latitude.
 
 ### ocorrencias-fatais-2014.csv
 
-[download](https://github.com/codigourbano/ocorrencias-transito-sp/raw/master/dados/ocorrencias-fatais-2014.csv) | [pré-visualização](https://github.com/codigourbano/ocorrencias-transito-sp/blob/master/dados/ocorrencias-fatais-2014.csv) | [dicionário](#acidentes)
+[baixar ](https://github.com/codigourbano/ocorrencias-transito-sp/raw/master/dados/ocorrencias-fatais-2014.csv) | [pré-visualização](https://github.com/codigourbano/ocorrencias-transito-sp/blob/master/dados/ocorrencias-fatais-2014.csv) | [dicionário](#acidentes)
 
 Recorte de ocorrências fatais em 2014, sem coordenadas geográficas. Foi extraído com a ferramenta [MDB Tools][mdbtools] do arquivo `Protocolo PR 12024.accdb`, que está em formato Access 2007.
 
 ### ocorrencias-fatais-veiculos-2014.csv
 
-[download]() | [pré-visualização]() | [dicionário](#veículos)
+[baixar ](https://github.com/codigourbano/ocorrencias-transito-pmsp/raw/master/dados/ocorrencias-fatais-veiculos-2014.csv) | [pré-visualização](https://github.com/codigourbano/ocorrencias-transito-pmsp/blob/master/dados/ocorrencias-fatais-veiculos-2014.csv) | [dicionário](#veículos)
 
 Informações sobre veículos envolvidos em ocorrências fatais em 2014. Arquivo fonte: `Protocolo PR 12024.accdb`
 
 ### ocorrencias-fatais-vitimas-2014.csv
 
-[download](https://github.com/codigourbano/ocorrencias-transito-sp/raw/master/dados/ocorrencias-fatais-veiculos-2014.csv) | [pré-visualização](https://github.com/codigourbano/ocorrencias-transito-sp/blob/master/dados/ocorrencias-fatais-veiculos-2014.csv) | [dicionário](#vítimas)
+[baixar ](https://github.com/codigourbano/ocorrencias-transito-sp/raw/master/dados/ocorrencias-fatais-veiculos-2014.csv) | [pré-visualização](https://github.com/codigourbano/ocorrencias-transito-sp/blob/master/dados/ocorrencias-fatais-veiculos-2014.csv) | [dicionário](#vítimas)
 
 Informações sobre vítimas (mortos e feridos) de ocorrências fatais em 2014, sem coordenadas geográficas. Arquivo fonte: `Protocolo PR 12024.accdb`
 
 ### logradouros.csv
 
-[download](https://github.com/codigourbano/ocorrencias-transito-sp/raw/master/dados/logradouros.csv) | [pré-visualização](https://github.com/codigourbano/ocorrencias-transito-sp/blob/master/dados/logradouros.csv) | [dicionário](#logradouros)
+[baixar ](https://github.com/codigourbano/ocorrencias-transito-sp/raw/master/dados/logradouros.csv) | [pré-visualização](https://github.com/codigourbano/ocorrencias-transito-sp/blob/master/dados/logradouros.csv) | [dicionário](#logradouros)
 
 Tabela de logradouros da cidade de São Paulo, sem georeferenciamento. Arquivo fonte: `Protocolo PR 12024.accdb`
 
 ### acidentes-2014-cet.zip
 
-[download](https://github.com/codigourbano/ocorrencias-transito-sp/raw/master/dados/acidentes-2014-cet.zip) | [link original](http://transparencia.prefeitura.sp.gov.br/acesso-a-informacao/Documents/CMAI/bases_de_dados/Acidentes_Fatais_2014.zip)
+[baixar ](https://github.com/codigourbano/ocorrencias-transito-sp/raw/master/dados/acidentes-2014-cet.zip) | [link original](http://transparencia.prefeitura.sp.gov.br/acesso-a-informacao/Documents/CMAI/bases_de_dados/Acidentes_Fatais_2014.zip)
 
 Arquivos originais dispobilizados pela CET após o deferimento do pedido de acesso à informação.
 
