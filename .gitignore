@@ -1,7 +1,6 @@
 .DS_Store
 *~lock*
 *.dbf
-*.prj
 *.qpj
 *.shp
 *.shx
