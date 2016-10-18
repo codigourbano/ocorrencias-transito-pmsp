@@ -18,11 +18,19 @@ Em fevereiro de 2016, um [pedido de informação do Código Urbano](http://codig
 
 Este repositório organiza em formato aberto os dados deste e outros pedidos de informação sobre este tema.
 
-## Informações disponíveis
+## Baixar dados
 
-* [Série histórica 2011-2015](https://github.com/codigourbano/ocorrencias-transito-pmsp/raw/master/dados/ocorrencias-transito-pmsp-2011-2015.zip)
-* [Dicionário de dados](DICIONARIO.md)
-* [Repositório completo](https://github.com/codigourbano/ocorrencias-transito-sp/archive/master.zip)
+* [2011](dados/2011)
+* [2012](dados/2012)
+* [2013](dados/2013)
+* [2014](dados/2014)
+* [2015](dados/2015)
+* [Histórico completo](https://github.com/codigourbano/ocorrencias-transito-pmsp/raw/master/dados/ocorrencias-transito-pmsp-2011-2015.zip)
+
+Outras informações:
+
+* [Dicionário](DICIONARIO.md)
+* [Dados originais](dados-originais)
 
 ## Histórico
 
