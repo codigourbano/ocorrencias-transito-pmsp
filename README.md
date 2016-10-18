@@ -14,18 +14,20 @@
 
 ![Mapa de ocorrências](preview.png)
 
-Em fevereiro de 2016, a [Prefeitura de São Paulo][pmsp] disponibilizou dados brutos sobre **ocorrências de trânsito com vítimas na cidades de São Paulo em 2014**. A liberação ocorreu após [decisão](8aATA_CMAI_18_11_15.pdf) do Conselho Municipal de Acesso à Informação, que [deferiu o pedido de acesso à informação após duas negativas]() da [Companhia de Engenharia de Tráfego (CET)][cet]. Os dados foram liberados em formato proprietário, mas, graças às ferramentas de código aberto [MDB Tools][mdbtools] e [ogr2ogr][ogr2ogr], estão disponíveis neste repositório em [formato aberto](http://dataprotocols.org/).
+Em fevereiro de 2016, um [pedido de informação do Código Urbano](http://codigourbano.org/lai-garante-acesso-a-dados-sobre-mortos-e-feridos-no-transito-de-sp) fez com que a [Prefeitura de São Paulo][pmsp] publicasse pela primeira vez dados brutos sobre colisões e atropelamentos na cidades de São Paulo.
+
+Este repositório organiza em formato aberto os dados deste e outros pedidos de informação sobre este tema.
 
 ## Informações disponíveis
 
-* [Série histórica](https://github.com/codigourbano/ocorrencias-transito-pmsp/raw/master/dados/ocorrencias-transito-pmsp-2011-2015.zip)
+* [Série histórica 2011-2015](https://github.com/codigourbano/ocorrencias-transito-pmsp/raw/master/dados/ocorrencias-transito-pmsp-2011-2015.zip)
 * [Dicionário de dados](DICIONARIO.md)
 * [Repositório completo](https://github.com/codigourbano/ocorrencias-transito-sp/archive/master.zip)
 
 ## Histórico
 
-* [Out/2016: Deferimento do 2o. pedido, com série histórica de 2011 a 2015](http://codigourbano.org/dados-abertos-sobre-mortos-e-feridos-no-transito-de-sp-de-2011-a-2015);
-* [Fev/2016: Deferimento do 1o. pedido (dados de 2014)](http://codigourbano.org/lai-garante-acesso-a-dados-sobre-mortos-e-feridos-no-transito-de-sp/);
+* Out/2016: [Deferimento do 2o. pedido](http://codigourbano.org/dados-abertos-sobre-mortos-e-feridos-no-transito-de-sp-de-2011-a-2015), com série histórica de 2011 a 2015;
+* Fev/2016: [Deferimento do 1o. pedido](http://codigourbano.org/lai-garante-acesso-a-dados-sobre-mortos-e-feridos-no-transito-de-sp/) (dados de 2014);
 
 ## Licença
 
